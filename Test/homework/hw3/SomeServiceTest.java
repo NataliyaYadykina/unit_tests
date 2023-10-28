@@ -3,7 +3,10 @@ package homework.hw3;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.provider.ValueSource;
 
+import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
@@ -31,8 +34,13 @@ public class SomeServiceTest {
     }
 
 
-    // HW 3.2. Нужно написать метод, который проверяет,
+    // HW 3.2. Нужно написать метод numberInInterval, который проверяет,
     // попадает ли переданное число в интервал (25;100) и возвращает true, если попадает и false - если нет,
     // покрыть тестами метод на 100%
+    @Test
+    void checkNegativeNumberInIntervalTest() {
+        boolean result = service.numberInInterval(-1);
+        assertFalse(result);
+    }
 
 }

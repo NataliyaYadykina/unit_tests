@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a62f0454-ffa7-4d89-8cb8-421f68b7b980" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Test/homework/hw3/SomeServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/homework/hw3/SomeServiceTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="a62f0454-ffa7-4d89-8cb8-421f68b7b980" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +43,7 @@
       <recent name="homework.hw3" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SomeServiceTest">
+  <component name="RunManager" selected="JUnit.SomeServiceTest.checkNegativeNumberInIntervalTest">
     <configuration name="SomeServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
@@ -77,6 +75,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SomeServiceTest.checkNegativeNumberInIntervalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit_tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.hw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework.hw3" />
+      <option name="MAIN_CLASS_NAME" value="homework.hw3.SomeServiceTest" />
+      <option name="METHOD_NAME" value="checkNegativeNumberInIntervalTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SomeServiceTest.checkOddNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
@@ -88,22 +102,6 @@
       <option name="PACKAGE_NAME" value="homework.hw3" />
       <option name="MAIN_CLASS_NAME" value="homework.hw3.SomeServiceTest" />
       <option name="METHOD_NAME" value="checkOddNumberTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserTest.checkAuthenticateUserNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Unit_tests" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seminars.sem3.tdd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="seminars.sem3.tdd" />
-      <option name="MAIN_CLASS_NAME" value="seminars.sem3.tdd.UserTest" />
-      <option name="METHOD_NAME" value="checkAuthenticateUserNegative" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SomeServiceTest.checkNegativeNumberInIntervalTest" />
         <item itemvalue="JUnit.SomeServiceTest" />
         <item itemvalue="JUnit.SomeServiceTest.checkOddNumberTest" />
         <item itemvalue="JUnit.SomeServiceTest.checkEvenNumberTest" />
         <item itemvalue="JUnit.UserTest.checkRepositoryAddNotAuthenticatedUserNegative" />
-        <item itemvalue="JUnit.UserTest.checkAuthenticateUserNegative" />
       </list>
     </recent_temporary>
   </component>
@@ -150,8 +148,8 @@
     <SUITE FILE_PATH="coverage/Unit_tests$TestDrivenDevelopment.ic" NAME="TestDrivenDevelopment Coverage Results" MODIFIED="1698505872191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>seminars.sem3.tdd.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Unit_tests$SomeServiceTest.ic" NAME="SomeServiceTest Coverage Results" MODIFIED="1698505178842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>seminars.sem3.coverage.*</FILTER>
+    <SUITE FILE_PATH="coverage/Unit_tests$SomeServiceTest.ic" NAME="SomeServiceTest Coverage Results" MODIFIED="1698515067834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>homework.hw3.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Unit_tests$SomeServiceTest_multipleNoFiveNoThreeReturnsValue.ic" NAME="SomeServiceTest.multipleNoFiveNoThreeReturnsValue Coverage Results" MODIFIED="1698500356812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>seminars.sem3.coverage.*</FILTER>

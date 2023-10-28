@@ -1,6 +1,8 @@
 package homework.hw3;
 
 public class SomeServiceHW {
+    public boolean evenOddNumber(int i) {
+    }
 
     // HW 3.1. Нужно покрыть тестами метод evenOddNumber на 100%
     // Метод проверяет, является ли целое число записанное в переменную n, чётным (true) либо нечётным (false).

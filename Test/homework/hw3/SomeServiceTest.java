@@ -38,10 +38,11 @@ public class SomeServiceTest {
     // попадает ли переданное число в интервал (25;100) и возвращает true, если попадает и false - если нет,
     // покрыть тестами метод на 100%
     @ParameterizedTest
-    @ValueSource(ints ={-1,0,150})
+    @ValueSource(ints ={-1,0,25,100,150})
     void checkNumberInIntervalNegativeTest(int num) {
         boolean result = service.numberInInterval(num);
         assertFalse(result);
     }
+
 
 }

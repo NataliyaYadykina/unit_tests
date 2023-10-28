@@ -13,6 +13,19 @@ public class UserRepository {
         data.add(user);
     }
 
+    public void logoutUser(User user) {
+        if(!user.isAuthenticate) return;
+        data.remove(user);
+    }
+
+    public void logoutUsersNotAdmins() {
+        for(int i = data.size() - 1; i >= 0; i--) {
+            if (!data.get(i).isAdmin) {
+                logoutUser(data.get(i));
+            }
+        }
+    }
+
     public boolean findByName(String username) {
         for (User user : data) {
             if (user.name.equals(username)) {

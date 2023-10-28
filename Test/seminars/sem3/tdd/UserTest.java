@@ -74,4 +74,25 @@ public class UserTest {
         assertThat(repository.data.size())
                 .isEqualTo(currentCount);
     }
+
+    @Test
+    void checkLogoutUsersNotAdminsTest() {
+
+        User user1 = new User("John", "password", false);
+        user1.authenticate("John", "password");
+        User user2 = new User("Fox", "password", false);
+        user2.authenticate("Fox", "password");
+        User user3 = new User("David", "password", true);
+        user3.authenticate("David", "password");
+
+        repository.addUser(user1);
+        repository.addUser(user2);
+        repository.addUser(user3);
+
+        repository.logoutUsersNotAdmins();
+
+        assertThat(repository.data.size()).isEqualTo(1);
+        assertThat(repository.data.get(0).name).isEqualTo("David");
+
+    }
 }

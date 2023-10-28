@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a62f0454-ffa7-4d89-8cb8-421f68b7b980" name="Changes" comment="" />
+    <list default="true" id="a62f0454-ffa7-4d89-8cb8-421f68b7b980" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/homework/hw3/SomeServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/homework/hw3/SomeServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/hw3/SomeServiceHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/hw3/SomeServiceHW.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,18 +47,19 @@
       <recent name="homework.hw3" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserTest.checkRepositoryAddNotAuthenticatedUserNegative">
-    <configuration name="TestDrivenDevelopment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SomeServiceTest.checkEvenNumberTest">
+    <configuration name="SomeServiceTest.checkEvenNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.sem3.tdd.*" />
+          <option name="PATTERN" value="homework.hw3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seminars.sem3.tdd" />
-      <option name="MAIN_CLASS_NAME" value="seminars.sem3.tdd.TestDrivenDevelopment" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="homework.hw3" />
+      <option name="MAIN_CLASS_NAME" value="homework.hw3.SomeServiceTest" />
+      <option name="METHOD_NAME" value="checkEvenNumberTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SomeServiceTest.checkEvenNumberTest" />
         <item itemvalue="JUnit.UserTest.checkRepositoryAddNotAuthenticatedUserNegative" />
         <item itemvalue="JUnit.UserTest.checkAuthenticateUserNegative" />
         <item itemvalue="JUnit.UserTest.checkRepositoryAddAuthenticatedUserPositive" />
         <item itemvalue="JUnit.UserTest.checkAuthenticateUserPositive" />
-        <item itemvalue="JUnit.TestDrivenDevelopment" />
       </list>
     </recent_temporary>
   </component>

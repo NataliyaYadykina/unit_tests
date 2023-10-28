@@ -37,9 +37,10 @@ public class SomeServiceTest {
     // HW 3.2. Нужно написать метод numberInInterval, который проверяет,
     // попадает ли переданное число в интервал (25;100) и возвращает true, если попадает и false - если нет,
     // покрыть тестами метод на 100%
-    @Test
-    void checkNegativeNumberInIntervalTest() {
-        boolean result = service.numberInInterval(-1);
+    @ParameterizedTest
+    @ValueSource(ints ={-1,0,150})
+    void checkNumberInIntervalNegativeTest(int num) {
+        boolean result = service.numberInInterval(num);
         assertFalse(result);
     }
 

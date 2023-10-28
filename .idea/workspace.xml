@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a62f0454-ffa7-4d89-8cb8-421f68b7b980" name="Changes" comment="" />
+    <list default="true" id="a62f0454-ffa7-4d89-8cb8-421f68b7b980" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/homework/hw3/SomeServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/homework/hw3/SomeServiceTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +46,7 @@
       <recent name="homework.hw3" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SomeServiceTest.checkNegativeNumberInIntervalTest">
+  <component name="RunManager" selected="JUnit.SomeServiceTest.checkNumberInIntervalNegativeTest">
     <configuration name="SomeServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
@@ -59,7 +62,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SomeServiceTest.checkEvenNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SomeServiceTest.checkNegativeNumberInIntervalTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
@@ -69,7 +72,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="homework.hw3" />
       <option name="MAIN_CLASS_NAME" value="homework.hw3.SomeServiceTest" />
-      <option name="METHOD_NAME" value="checkEvenNumberTest" />
+      <option name="METHOD_NAME" value="checkNegativeNumberInIntervalTest(int)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,6 +94,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SomeServiceTest.checkNumberInIntervalNegativeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit_tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.hw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework.hw3" />
+      <option name="MAIN_CLASS_NAME" value="homework.hw3.SomeServiceTest" />
+      <option name="METHOD_NAME" value="checkNumberInIntervalNegativeTest(int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SomeServiceTest.checkOddNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
@@ -107,29 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest.checkRepositoryAddNotAuthenticatedUserNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Unit_tests" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seminars.sem3.tdd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="seminars.sem3.tdd" />
-      <option name="MAIN_CLASS_NAME" value="seminars.sem3.tdd.UserTest" />
-      <option name="METHOD_NAME" value="checkRepositoryAddNotAuthenticatedUserNegative" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SomeServiceTest.checkNumberInIntervalNegativeTest" />
+        <item itemvalue="JUnit.SomeServiceTest.checkNegativeNumberInIntervalTest (1)" />
         <item itemvalue="JUnit.SomeServiceTest.checkNegativeNumberInIntervalTest" />
         <item itemvalue="JUnit.SomeServiceTest" />
         <item itemvalue="JUnit.SomeServiceTest.checkOddNumberTest" />
-        <item itemvalue="JUnit.SomeServiceTest.checkEvenNumberTest" />
-        <item itemvalue="JUnit.UserTest.checkRepositoryAddNotAuthenticatedUserNegative" />
       </list>
     </recent_temporary>
   </component>

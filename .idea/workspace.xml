@@ -46,7 +46,7 @@
       <recent name="homework.hw3" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SomeServiceTest.checkNumberInIntervalNegativeTest">
+  <component name="RunManager" selected="JUnit.SomeServiceTest.checkNumberInIntervalPositiveTest">
     <configuration name="SomeServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
@@ -110,7 +110,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SomeServiceTest.checkOddNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SomeServiceTest.checkNumberInIntervalPositiveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
@@ -120,7 +120,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="homework.hw3" />
       <option name="MAIN_CLASS_NAME" value="homework.hw3.SomeServiceTest" />
-      <option name="METHOD_NAME" value="checkOddNumberTest" />
+      <option name="METHOD_NAME" value="checkNumberInIntervalPositiveTest(int)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SomeServiceTest.checkNumberInIntervalPositiveTest" />
         <item itemvalue="JUnit.SomeServiceTest.checkNumberInIntervalNegativeTest" />
         <item itemvalue="JUnit.SomeServiceTest.checkNegativeNumberInIntervalTest (1)" />
         <item itemvalue="JUnit.SomeServiceTest.checkNegativeNumberInIntervalTest" />
         <item itemvalue="JUnit.SomeServiceTest" />
-        <item itemvalue="JUnit.SomeServiceTest.checkOddNumberTest" />
       </list>
     </recent_temporary>
   </component>

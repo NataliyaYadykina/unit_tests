@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a62f0454-ffa7-4d89-8cb8-421f68b7b980" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter_api_5_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter_params_5_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_platform_commons_1_9_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit_tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Unit_tests.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,93 +28,93 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/DS GB/Unit_tests_from_teacher/unit-tests-lesson02&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "20",
+    "last_opened_file_path": "E:/DS GB/Unit_tests_from_teacher/unit-tests-3 actual/unit-tests-3",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="JUnit.VehicleTest">
-    <configuration name="VehicleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="JUnit.UserTest.checkRepositoryAddNotAuthenticatedUserNegative">
+    <configuration name="TestDrivenDevelopment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.hw2.*" />
+          <option name="PATTERN" value="seminars.sem3.tdd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homework.hw2" />
-      <option name="MAIN_CLASS_NAME" value="homework.hw2.VehicleTest" />
+      <option name="PACKAGE_NAME" value="seminars.sem3.tdd" />
+      <option name="MAIN_CLASS_NAME" value="seminars.sem3.tdd.TestDrivenDevelopment" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleTest.testCarSpeedPark" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserTest.checkAuthenticateUserNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.hw2.*" />
+          <option name="PATTERN" value="seminars.sem3.tdd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homework.hw2" />
-      <option name="MAIN_CLASS_NAME" value="homework.hw2.VehicleTest" />
-      <option name="METHOD_NAME" value="testCarSpeedPark" />
+      <option name="PACKAGE_NAME" value="seminars.sem3.tdd" />
+      <option name="MAIN_CLASS_NAME" value="seminars.sem3.tdd.UserTest" />
+      <option name="METHOD_NAME" value="checkAuthenticateUserNegative" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleTest.testCarSpeedTestDrive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserTest.checkAuthenticateUserPositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.hw2.*" />
+          <option name="PATTERN" value="seminars.sem3.tdd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homework.hw2" />
-      <option name="MAIN_CLASS_NAME" value="homework.hw2.VehicleTest" />
-      <option name="METHOD_NAME" value="testCarSpeedTestDrive" />
+      <option name="PACKAGE_NAME" value="seminars.sem3.tdd" />
+      <option name="MAIN_CLASS_NAME" value="seminars.sem3.tdd.UserTest" />
+      <option name="METHOD_NAME" value="checkAuthenticateUserPositive" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleTest.testMotorcycleSpeedPark" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserTest.checkRepositoryAddAuthenticatedUserPositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.hw2.*" />
+          <option name="PATTERN" value="seminars.sem3.tdd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homework.hw2" />
-      <option name="MAIN_CLASS_NAME" value="homework.hw2.VehicleTest" />
-      <option name="METHOD_NAME" value="testMotorcycleSpeedPark" />
+      <option name="PACKAGE_NAME" value="seminars.sem3.tdd" />
+      <option name="MAIN_CLASS_NAME" value="seminars.sem3.tdd.UserTest" />
+      <option name="METHOD_NAME" value="checkRepositoryAddAuthenticatedUserPositive" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleTest.testMotorcycleSpeedTestDrive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserTest.checkRepositoryAddNotAuthenticatedUserNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.hw2.*" />
+          <option name="PATTERN" value="seminars.sem3.tdd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homework.hw2" />
-      <option name="MAIN_CLASS_NAME" value="homework.hw2.VehicleTest" />
-      <option name="METHOD_NAME" value="testMotorcycleSpeedTestDrive" />
+      <option name="PACKAGE_NAME" value="seminars.sem3.tdd" />
+      <option name="MAIN_CLASS_NAME" value="seminars.sem3.tdd.UserTest" />
+      <option name="METHOD_NAME" value="checkRepositoryAddNotAuthenticatedUserNegative" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.VehicleTest" />
-        <item itemvalue="JUnit.VehicleTest.testMotorcycleSpeedPark" />
-        <item itemvalue="JUnit.VehicleTest.testCarSpeedPark" />
-        <item itemvalue="JUnit.VehicleTest.testMotorcycleSpeedTestDrive" />
-        <item itemvalue="JUnit.VehicleTest.testCarSpeedTestDrive" />
+        <item itemvalue="JUnit.UserTest.checkRepositoryAddNotAuthenticatedUserNegative" />
+        <item itemvalue="JUnit.UserTest.checkAuthenticateUserNegative" />
+        <item itemvalue="JUnit.UserTest.checkRepositoryAddAuthenticatedUserPositive" />
+        <item itemvalue="JUnit.UserTest.checkAuthenticateUserPositive" />
+        <item itemvalue="JUnit.TestDrivenDevelopment" />
       </list>
     </recent_temporary>
   </component>
@@ -144,5 +140,16 @@
       <updated>1697907227339</updated>
     </task>
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Unit_tests$TestDrivenDevelopment.ic" NAME="TestDrivenDevelopment Coverage Results" MODIFIED="1698505872191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>seminars.sem3.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Unit_tests$SomeServiceTest.ic" NAME="SomeServiceTest Coverage Results" MODIFIED="1698505178842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>seminars.sem3.coverage.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Unit_tests$SomeServiceTest_multipleNoFiveNoThreeReturnsValue.ic" NAME="SomeServiceTest.multipleNoFiveNoThreeReturnsValue Coverage Results" MODIFIED="1698500356812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>seminars.sem3.coverage.*</FILTER>
+    </SUITE>
   </component>
 </project>

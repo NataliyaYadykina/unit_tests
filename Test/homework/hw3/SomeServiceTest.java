@@ -2,7 +2,10 @@ package homework.hw3;
 
 
 import org.junit.jupiter.api.BeforeEach;
-import seminars.sem3.coverage.SomeService;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class SomeServiceTest {
 
@@ -14,6 +17,13 @@ public class SomeServiceTest {
     void setUp(){
         service = new SomeServiceHW();
     }
+
+    @Test
+    void checkEvenNumberTest(){
+        boolean result = service.evenOddNumber(2);
+        assertTrue(result);
+    }
+
 
     // HW 3.2. Нужно написать метод, который проверяет,
     // попадает ли переданное число в интервал (25;100) и возвращает true, если попадает и false - если нет,

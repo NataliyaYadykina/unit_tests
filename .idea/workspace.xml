@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a62f0454-ffa7-4d89-8cb8-421f68b7b980" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test/homework/hw3/SomeServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/homework/hw3/SomeServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/hw3/SomeServiceHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/hw3/SomeServiceHW.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,22 @@
       <recent name="homework.hw3" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SomeServiceTest.checkEvenNumberTest">
+  <component name="RunManager" selected="JUnit.SomeServiceTest">
+    <configuration name="SomeServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit_tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.hw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework.hw3" />
+      <option name="MAIN_CLASS_NAME" value="homework.hw3.SomeServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SomeServiceTest.checkEvenNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
@@ -64,6 +77,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SomeServiceTest.checkOddNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit_tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.hw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework.hw3" />
+      <option name="MAIN_CLASS_NAME" value="homework.hw3.SomeServiceTest" />
+      <option name="METHOD_NAME" value="checkOddNumberTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserTest.checkAuthenticateUserNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
@@ -75,38 +104,6 @@
       <option name="PACKAGE_NAME" value="seminars.sem3.tdd" />
       <option name="MAIN_CLASS_NAME" value="seminars.sem3.tdd.UserTest" />
       <option name="METHOD_NAME" value="checkAuthenticateUserNegative" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserTest.checkAuthenticateUserPositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Unit_tests" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seminars.sem3.tdd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="seminars.sem3.tdd" />
-      <option name="MAIN_CLASS_NAME" value="seminars.sem3.tdd.UserTest" />
-      <option name="METHOD_NAME" value="checkAuthenticateUserPositive" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserTest.checkRepositoryAddAuthenticatedUserPositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Unit_tests" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seminars.sem3.tdd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="seminars.sem3.tdd" />
-      <option name="MAIN_CLASS_NAME" value="seminars.sem3.tdd.UserTest" />
-      <option name="METHOD_NAME" value="checkRepositoryAddAuthenticatedUserPositive" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SomeServiceTest" />
+        <item itemvalue="JUnit.SomeServiceTest.checkOddNumberTest" />
         <item itemvalue="JUnit.SomeServiceTest.checkEvenNumberTest" />
         <item itemvalue="JUnit.UserTest.checkRepositoryAddNotAuthenticatedUserNegative" />
         <item itemvalue="JUnit.UserTest.checkAuthenticateUserNegative" />
-        <item itemvalue="JUnit.UserTest.checkRepositoryAddAuthenticatedUserPositive" />
-        <item itemvalue="JUnit.UserTest.checkAuthenticateUserPositive" />
       </list>
     </recent_temporary>
   </component>

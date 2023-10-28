@@ -24,6 +24,12 @@ public class SomeServiceTest {
         assertTrue(result);
     }
 
+    @Test
+    void checkOddNumberTest(){
+        boolean result = service.evenOddNumber(3);
+        assertFalse(result);
+    }
+
 
     // HW 3.2. Нужно написать метод, который проверяет,
     // попадает ли переданное число в интервал (25;100) и возвращает true, если попадает и false - если нет,

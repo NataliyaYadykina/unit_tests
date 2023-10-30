@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a62f0454-ffa7-4d89-8cb8-421f68b7b980" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit_tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Unit_tests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/hw4/task1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/hw4/task1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -29,100 +30,100 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/DS GB/Unit_tests&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.idesettings.debugger.capture&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "20",
+    "last_opened_file_path": "E:/DS GB/Unit_tests_from_teacher/unit-tests-5",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.idesettings.debugger.capture"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="homework.hw3" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.httpServiceTest.httpRequestTest">
-    <configuration name="BookingServiceTest.bookingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BookServiceTest.setTitleTest">
+    <configuration name="BookServiceTest.findAllBooksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.sem4.hotel.*" />
+          <option name="PATTERN" value="homework.hw4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seminars.sem4.hotel" />
-      <option name="MAIN_CLASS_NAME" value="seminars.sem4.hotel.BookingServiceTest" />
-      <option name="METHOD_NAME" value="bookingTest" />
+      <option name="PACKAGE_NAME" value="homework.hw4" />
+      <option name="MAIN_CLASS_NAME" value="homework.hw4.BookServiceTest" />
+      <option name="METHOD_NAME" value="findAllBooksTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookingServiceTest.bookingTestNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookServiceTest.getAuthorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.sem4.hotel.*" />
+          <option name="PATTERN" value="homework.hw4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seminars.sem4.hotel" />
-      <option name="MAIN_CLASS_NAME" value="seminars.sem4.hotel.BookingServiceTest" />
-      <option name="METHOD_NAME" value="bookingTestNegative" />
+      <option name="PACKAGE_NAME" value="homework.hw4" />
+      <option name="MAIN_CLASS_NAME" value="homework.hw4.BookServiceTest" />
+      <option name="METHOD_NAME" value="getAuthorTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataProcessorTest.dataProcessorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookServiceTest.getTitleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.sem4.database.*" />
+          <option name="PATTERN" value="homework.hw4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seminars.sem4.database" />
-      <option name="MAIN_CLASS_NAME" value="seminars.sem4.database.DataProcessorTest" />
-      <option name="METHOD_NAME" value="dataProcessorTest" />
+      <option name="PACKAGE_NAME" value="homework.hw4" />
+      <option name="MAIN_CLASS_NAME" value="homework.hw4.BookServiceTest" />
+      <option name="METHOD_NAME" value="getTitleTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotificationServiceTest.messageServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookServiceTest.setAuthorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.sem4.message.*" />
+          <option name="PATTERN" value="homework.hw4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seminars.sem4.message" />
-      <option name="MAIN_CLASS_NAME" value="seminars.sem4.message.NotificationServiceTest" />
-      <option name="METHOD_NAME" value="messageServiceTest" />
+      <option name="PACKAGE_NAME" value="homework.hw4" />
+      <option name="MAIN_CLASS_NAME" value="homework.hw4.BookServiceTest" />
+      <option name="METHOD_NAME" value="setAuthorTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="httpServiceTest.httpRequestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookServiceTest.setTitleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.sem4.httpService.*" />
+          <option name="PATTERN" value="homework.hw4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seminars.sem4.httpService" />
-      <option name="MAIN_CLASS_NAME" value="seminars.sem4.httpService.httpServiceTest" />
-      <option name="METHOD_NAME" value="httpRequestTest" />
+      <option name="PACKAGE_NAME" value="homework.hw4" />
+      <option name="MAIN_CLASS_NAME" value="homework.hw4.BookServiceTest" />
+      <option name="METHOD_NAME" value="setTitleTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.httpServiceTest.httpRequestTest" />
-        <item itemvalue="JUnit.DataProcessorTest.dataProcessorTest" />
-        <item itemvalue="JUnit.NotificationServiceTest.messageServiceTest" />
-        <item itemvalue="JUnit.BookingServiceTest.bookingTestNegative" />
-        <item itemvalue="JUnit.BookingServiceTest.bookingTest" />
+        <item itemvalue="JUnit.BookServiceTest.setTitleTest" />
+        <item itemvalue="JUnit.BookServiceTest.getAuthorTest" />
+        <item itemvalue="JUnit.BookServiceTest.setAuthorTest" />
+        <item itemvalue="JUnit.BookServiceTest.getTitleTest" />
+        <item itemvalue="JUnit.BookServiceTest.findAllBooksTest" />
       </list>
     </recent_temporary>
   </component>

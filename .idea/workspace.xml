@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a62f0454-ffa7-4d89-8cb8-421f68b7b980" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/seminars/sem3/tdd/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/seminars/sem3/tdd/UserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/sem3/tdd/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/sem3/tdd/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/sem3/tdd/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/sem3/tdd/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit_tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Unit_tests.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,98 +29,100 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "20",
-    "last_opened_file_path": "E:/DS GB/Unit_tests_from_teacher/unit-tests-3 actual/unit-tests-3",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/DS GB/Unit_tests&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.idesettings.debugger.capture&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="homework.hw3" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserTest.checkLogoutUsersNotAdminsTest">
-    <configuration name="SomeServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.httpServiceTest.httpRequestTest">
+    <configuration name="BookingServiceTest.bookingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.hw3.*" />
+          <option name="PATTERN" value="seminars.sem4.hotel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homework.hw3" />
-      <option name="MAIN_CLASS_NAME" value="homework.hw3.SomeServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SomeServiceTest.checkNegativeNumberInIntervalTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Unit_tests" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.hw3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="homework.hw3" />
-      <option name="MAIN_CLASS_NAME" value="homework.hw3.SomeServiceTest" />
-      <option name="METHOD_NAME" value="checkNegativeNumberInIntervalTest(int)" />
+      <option name="PACKAGE_NAME" value="seminars.sem4.hotel" />
+      <option name="MAIN_CLASS_NAME" value="seminars.sem4.hotel.BookingServiceTest" />
+      <option name="METHOD_NAME" value="bookingTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SomeServiceTest.checkNumberInIntervalNegativeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookingServiceTest.bookingTestNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.hw3.*" />
+          <option name="PATTERN" value="seminars.sem4.hotel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homework.hw3" />
-      <option name="MAIN_CLASS_NAME" value="homework.hw3.SomeServiceTest" />
-      <option name="METHOD_NAME" value="checkNumberInIntervalNegativeTest(int)" />
+      <option name="PACKAGE_NAME" value="seminars.sem4.hotel" />
+      <option name="MAIN_CLASS_NAME" value="seminars.sem4.hotel.BookingServiceTest" />
+      <option name="METHOD_NAME" value="bookingTestNegative" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SomeServiceTest.checkNumberInIntervalPositiveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DataProcessorTest.dataProcessorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.hw3.*" />
+          <option name="PATTERN" value="seminars.sem4.database.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homework.hw3" />
-      <option name="MAIN_CLASS_NAME" value="homework.hw3.SomeServiceTest" />
-      <option name="METHOD_NAME" value="checkNumberInIntervalPositiveTest(int)" />
+      <option name="PACKAGE_NAME" value="seminars.sem4.database" />
+      <option name="MAIN_CLASS_NAME" value="seminars.sem4.database.DataProcessorTest" />
+      <option name="METHOD_NAME" value="dataProcessorTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest.checkLogoutUsersNotAdminsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NotificationServiceTest.messageServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.sem3.tdd.*" />
+          <option name="PATTERN" value="seminars.sem4.message.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seminars.sem3.tdd" />
-      <option name="MAIN_CLASS_NAME" value="seminars.sem3.tdd.UserTest" />
-      <option name="METHOD_NAME" value="checkLogoutUsersNotAdminsTest" />
+      <option name="PACKAGE_NAME" value="seminars.sem4.message" />
+      <option name="MAIN_CLASS_NAME" value="seminars.sem4.message.NotificationServiceTest" />
+      <option name="METHOD_NAME" value="messageServiceTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="httpServiceTest.httpRequestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit_tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seminars.sem4.httpService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seminars.sem4.httpService" />
+      <option name="MAIN_CLASS_NAME" value="seminars.sem4.httpService.httpServiceTest" />
+      <option name="METHOD_NAME" value="httpRequestTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserTest.checkLogoutUsersNotAdminsTest" />
-        <item itemvalue="JUnit.SomeServiceTest" />
-        <item itemvalue="JUnit.SomeServiceTest.checkNumberInIntervalPositiveTest" />
-        <item itemvalue="JUnit.SomeServiceTest.checkNumberInIntervalNegativeTest" />
-        <item itemvalue="JUnit.SomeServiceTest.checkNegativeNumberInIntervalTest (1)" />
+        <item itemvalue="JUnit.httpServiceTest.httpRequestTest" />
+        <item itemvalue="JUnit.DataProcessorTest.dataProcessorTest" />
+        <item itemvalue="JUnit.NotificationServiceTest.messageServiceTest" />
+        <item itemvalue="JUnit.BookingServiceTest.bookingTestNegative" />
+        <item itemvalue="JUnit.BookingServiceTest.bookingTest" />
       </list>
     </recent_temporary>
   </component>

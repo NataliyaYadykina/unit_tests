@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+  <component name="CheckStyle-IDEA-Module" serialisationVersion="2">
+    <option name="activeLocationsIds" />
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
@@ -15,5 +18,8 @@
     <orderEntry type="library" name="byte-buddy-1.12.22" level="project" />
     <orderEntry type="library" name="selenium-api-4.11.0" level="project" />
     <orderEntry type="library" name="async-http-client-2.12.3" level="project" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="4b51d821-8b85-4244-9d60-1d16d053f8c6" />
   </component>
 </module>

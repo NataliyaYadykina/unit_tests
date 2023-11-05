@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a62f0454-ffa7-4d89-8cb8-421f68b7b980" name="Changes" comment="" />
+    <list default="true" id="a62f0454-ffa7-4d89-8cb8-421f68b7b980" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit_tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Unit_tests.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +43,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.idesettings.debugger.capture&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -48,82 +51,81 @@
       <recent name="homework.hw3" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SeleniumTest.seleniumTestTwo">
-    <configuration name="MainTest.orderServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.NumListsProgramTest">
+    <configuration name="NumListsProgramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.sem5.*" />
+          <option name="PATTERN" value="homework.hw6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seminars.sem5" />
-      <option name="MAIN_CLASS_NAME" value="seminars.sem5.MainTest" />
-      <option name="METHOD_NAME" value="orderServiceTest" />
+      <option name="PACKAGE_NAME" value="homework.hw6" />
+      <option name="MAIN_CLASS_NAME" value="homework.hw6.NumListsProgramTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumListsProgramTest.calculateNumListAverageNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit_tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.hw6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework.hw6" />
+      <option name="MAIN_CLASS_NAME" value="homework.hw6.NumListsProgramTest" />
+      <option name="METHOD_NAME" value="calculateNumListAverageNegative" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest.userServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumListsProgramTest.twoListAverageCompareEqualTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.sem5.*" />
+          <option name="PATTERN" value="homework.hw6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seminars.sem5" />
-      <option name="MAIN_CLASS_NAME" value="seminars.sem5.MainTest" />
-      <option name="METHOD_NAME" value="userServiceTest" />
+      <option name="PACKAGE_NAME" value="homework.hw6" />
+      <option name="MAIN_CLASS_NAME" value="homework.hw6.NumListsProgramTest" />
+      <option name="METHOD_NAME" value="twoListAverageCompareEqualTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumTest.autorizationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumListsProgramTest.twoListAverageCompareFirstLessTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.sem5.*" />
+          <option name="PATTERN" value="homework.hw6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seminars.sem5" />
-      <option name="MAIN_CLASS_NAME" value="seminars.sem5.SeleniumTest" />
-      <option name="METHOD_NAME" value="autorizationTest" />
+      <option name="PACKAGE_NAME" value="homework.hw6" />
+      <option name="MAIN_CLASS_NAME" value="homework.hw6.NumListsProgramTest" />
+      <option name="METHOD_NAME" value="twoListAverageCompareFirstLessTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumTest.seleniumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumListsProgramTest.twoListAverageCompareFirstMoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.sem5.*" />
+          <option name="PATTERN" value="homework.hw6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seminars.sem5" />
-      <option name="MAIN_CLASS_NAME" value="seminars.sem5.SeleniumTest" />
-      <option name="METHOD_NAME" value="seleniumTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SeleniumTest.seleniumTestTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Unit_tests" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seminars.sem5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="seminars.sem5" />
-      <option name="MAIN_CLASS_NAME" value="seminars.sem5.SeleniumTest" />
-      <option name="METHOD_NAME" value="seleniumTestTwo" />
+      <option name="PACKAGE_NAME" value="homework.hw6" />
+      <option name="MAIN_CLASS_NAME" value="homework.hw6.NumListsProgramTest" />
+      <option name="METHOD_NAME" value="twoListAverageCompareFirstMoreTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SeleniumTest.seleniumTestTwo" />
-        <item itemvalue="JUnit.SeleniumTest.autorizationTest" />
-        <item itemvalue="JUnit.SeleniumTest.seleniumTest" />
-        <item itemvalue="JUnit.MainTest.orderServiceTest" />
-        <item itemvalue="JUnit.MainTest.userServiceTest" />
+        <item itemvalue="JUnit.NumListsProgramTest" />
+        <item itemvalue="JUnit.NumListsProgramTest.twoListAverageCompareEqualTest" />
+        <item itemvalue="JUnit.NumListsProgramTest.twoListAverageCompareFirstLessTest" />
+        <item itemvalue="JUnit.NumListsProgramTest.twoListAverageCompareFirstMoreTest" />
+        <item itemvalue="JUnit.NumListsProgramTest.calculateNumListAverageNegative" />
       </list>
     </recent_temporary>
   </component>
@@ -150,12 +152,26 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Unit_tests$TestDrivenDevelopment.ic" NAME="TestDrivenDevelopment Coverage Results" MODIFIED="1698505872191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>seminars.sem3.tdd.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Unit_tests$SomeServiceTest.ic" NAME="SomeServiceTest Coverage Results" MODIFIED="1698516551933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>homework.hw3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Unit_tests$NumListsProgramTest.ic" NAME="NumListsProgramTest Coverage Results" MODIFIED="1699169396379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>homework.hw6.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Unit_tests$SomeServiceTest_multipleNoFiveNoThreeReturnsValue.ic" NAME="SomeServiceTest.multipleNoFiveNoThreeReturnsValue Coverage Results" MODIFIED="1698500356812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>seminars.sem3.coverage.*</FILTER>
